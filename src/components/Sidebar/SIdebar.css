@@ -1,0 +1,8 @@
+.sidebar {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #e5c8ff;
+  padding: 25px 10px;
+}
+
