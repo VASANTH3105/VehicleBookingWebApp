@@ -9,14 +9,7 @@ function App() {
         <p>
           Welcome to Vehicles Booking Web Application...
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p><small>powered by S.V group's</small></p>
       </header>
     </div>
   );
